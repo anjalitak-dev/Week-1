@@ -8,35 +8,40 @@ Problem Statement
  
 The primary goal is to develop a system that:    
 
-Predicts the most suitable crop for cultivation based on soil composition and climatic conditions.   
+-Predicts the most suitable crop for cultivation based on soil composition and climatic conditions.   
 
-Recommends appropriate fertilizers to optimize yield and soil health.     
+-Recommends appropriate fertilizers to optimize yield and soil health.     
 
-Dataset Description    
+
+
+Dataset Description:      
 
 The dataset contains 2,200 samples and includes the following features:    
 
-Predictor Variables      
+Predictor Variables:            
 
-N (Nitrogen): Nitrogen content in the soil (mg/kg).    
+-N (Nitrogen): Nitrogen content in the soil (mg/kg).    
 
-P (Phosphorus): Phosphorus content in the soil (mg/kg).    
+-P (Phosphorus): Phosphorus content in the soil (mg/kg).    
 
-K (Potassium): Potassium content in the soil (mg/kg).    
+-K (Potassium): Potassium content in the soil (mg/kg).    
 
-Temperature: Atmospheric temperature (°C).      
+-Temperature: Atmospheric temperature (°C).      
 
-Humidity: Relative humidity (%).      
+-Humidity: Relative humidity (%).      
 
-pH: Soil pH level (acidity or alkalinity).     
+-pH: Soil pH level (acidity or alkalinity).     
 
-Rainfall: Annual rainfall (mm).      
+-Rainfall: Annual rainfall (mm). 
 
-Target Variable     
 
-Label: Recommended crop type (e.g., rice, maize, wheat, apple, coffee, etc.).     
 
-Dataset Insights     
+Target Variable:     
+
+-Label: Recommended crop type (e.g., rice, maize, wheat, apple, coffee, etc.).    
+
+
+Dataset Insights:     
 
 The dataset has no missing or duplicate values.      
 
